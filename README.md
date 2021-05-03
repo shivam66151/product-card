@@ -1,2 +1,3 @@
 # product-card
-![Screenshot (98)](https://user-images.githubusercontent.com/78584267/116833350-3d9d4480-abd6-11eb-8cdb-71c7816da582.png)
+![Screenshot (98)](https://user-images.githubusercontent.com/78584267/116833465-e350b380-abd6-11eb-8abf-f0743367c483.png)
+
